@@ -1,0 +1,87 @@
+Inicio Programa Cálculo de Litros de una Piscina|Lona
+	//Formulario
+	Inicio Formulario frmCargaDeDatos
+		Inicio Marco mrcFormaDePiscina
+			BotonDeOpcion optPiscinaRectangular = verdadero
+			BotonDeOpcion optPiscinaCircular    = falso
+			BotonDeOpcion optPiscinaIrregular   = falso
+			BotonDeOpcion optPiscinaOvalada     = falso
+			BotonDeOpcion optPiscinaLona        = falso
+		Fin Marco mrcFormaDePileta
+		
+		Inicio Marco mrcProfundidadMedia
+			Etiqueta 		lblProfundidadMax
+			CajaDeTexto		txtProfundidadMax
+			
+			Etiqueta 		lblProfundidadMin
+			CajaDeTexto		txtProfundidadMin
+			
+			//mmm... revisar si está eso. Y para qué lo puse? 
+			Etiqueta 		lblProfundidadLona/Circular
+			CajaDeTexto		txtProfundidadLona/Circular 
+			
+			Etiqueta 		lblResultadoProfMedia
+			CajaDeTexto     txtResultadoProfMedia
+		Fin Marco mrcProfundidadMedia	
+		
+		Inicio Marco mrcMedidas
+			Etiqueta 		lblLargo
+			CajaDeTexto		txtLargo
+		
+			Etiqueta 		lblAncho
+			CajaDeTexto		txtAncho
+			
+			Etiqueta        lblProfundidad
+			CajaDeTexto		txtProfundidad
+		Fin Marco mrcMedidas	
+		
+		Inicio Marco mrcResultado
+			Etiqueta 		lblResultado  "Lts"			
+		Fin Marco mrcResultado
+	
+		BotonDeComando cmdCalculoProfMedia
+		BotonDeComando cmdCalculoLitros
+		BotonDeComando cmdLimpiar
+		BotonDeComando cmdSalir
+	Fin Formulario frmCargaDeDatos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fin Programa

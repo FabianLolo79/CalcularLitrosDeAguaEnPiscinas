@@ -1,0 +1,71 @@
+https://ferron.es/D/post/como-calcular-los-litros-de-su-piscina/
+
+https://www.tuandco.com/aprendeymejora/como-calcular-los-litros-de-una-piscina/
+
+
+
+
+Función: como-calcular-los-litros-de-su-piscina
+
+La buena dosificación de producto químico es la clave para mantener la piscina en perfectas condiciones, prolongando la vida útil de esta y sus integrantes. Normalmente, los parámetros de tratamiento químico vienen regidos por la cantidad de agua que posee la piscina, algo lógico: cuanta más agua, más producto necesitaremos.
+Una vez hayamos obtenido los metros cúbicos, deberemos multiplicar dicha cantidad por 1000. El resultado serán los litros de su piscina.
+
+ 
+
+Veamos un ejemplo:
+
+1. DATOS DE LA PISCINA
+
+Piscina: Rectangular
+
+Largo: 7 m
+
+Ancho: 3,5 m
+
+Profundidad media: (p.mínima + p.máxima) /2 =  (1,10+1,90)/2=  1,5
+
+ 
+
+2. APLICAR LA FÓRMULA CORRESPONDIENTE
+
+FÓRMULA VOLUMEN EN PISCINA RECTANGULAR:  Largo x Ancho x Profundidad media= 7 x 3,5 x 1,5 = 36,5 m3
+
+ 
+
+3.  CONVERSIÓN DE M3 A LITROS
+
+1 m3 son 1000L , por lo tanto: 36,5 x 1000= 36.500 L
+
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+Si tienes una piscina es importante que sepas la cantidad de agua que puede caber en ella. 
+
+No todas las piscinas son iguales, cada una tiene su tamaño, su forma y su profundidad. Por ello, lo primero que tenemos que averiguar es cuáles son las medidas de nuestra piscina (longitud – anchura) y dependiendo de esto, sabremos si necesitamos más o menos agua para llenarla.
+
+Así pues, si quieres conocer el volumen de tu piscina, debes saber que, en la mayoría de casos, este cálculo se realiza con la siguiente fórmula:
+
+ Largo X Ancho x Profundidad
+
+¿Cómo calcular los litros de una piscina rectangular?
+En caso que tu piscina sea rectangular, el volumen de agua es la multiplicación del largo por el ancho y por la profundidad media.
+
+La profundidad media se obtiene sumando la parte más profunda (2 metros, por ejemplo, cubriendo totalmente una persona) más la parte menos profunda (1 metros, por ejemplo, con el agua en la cintura) y dividiendo entre 2. En este caso, muy común, 1,5 metros.
+
+El volumen de una piscina rectangular: Largo x Ancho x Profundidad Media
+Así, el volumen de una piscina de 6 metros de largo x 4 metros de ancho y con un altura de 2 metros, se calculará:
+
+6 x 4 x 2 = 48 m³
+
+Sabiendo que 1 m³ = 1.000 litros, la piscina tendrá: 48 x 1.000 = 48.000 litros.
+
+¿Cómo calcular los litros de una piscina redonda u ovalada?
+En caso que tu piscina sea redonda u ovalada, el volumen de agua es la multiplicación del diámetro por sí mismo, por la profundidad media y multiplicado por 0,78.
+
+El volumen de una piscina redonda: Diámetro x Diámetro Profundidad Media x Coeficiente 0.785
+Por ejemplo: Tienes un diámetro de 4,6 m y tu profundidad es de entre 1,10 m y 1,30 m.
+
+4,6 x 4,6 x 1,20 x 0,78 = 19,80 m³
+
+El volumen de una piscina ovalada: Largo x Ancho x Profundidad Media x Coeficiente 0.89
+*Para calcular la profundidad media de la piscina tienes que sumar la profundidad en el punto más hondo y la profundidad en el punto menos hondo. Al resultado de esa suma le divides entre 2 y así obtienes la profundidad media.
+
+Profundidad media = (profundidad en el punto más hondo + profundidad en el punto menos hondo) / 2
